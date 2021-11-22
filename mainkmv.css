@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header h1 {
+font-family: p22-pooper-black-pro,sans-serif;
+font-weight: 400;
+font-style: normal;
+	text-align: center;
+	color: mediumorchid;
+	font-size: 60px;
+}
+ul{list-style-type: none;
+margin-left: 0;
+padding: 0;
+	background-color: #92D0C3;
+	overflow: hidden;
+	border: ridge;
+	text-align: center;
+	border-color: coral;
+}
+li{
+float: left; }
+li a {display: block;
+color: grey; 
+text-align: center;
+padding: 20px 40px;
+text-decoration: none;
+font-family: "Adore You Slanted";
+	font-size: 25px;
+	font-weight: 400px;
+	font-style: italic;
+}
+/* change the link color to #EEF6F7 on hover */
+li a:hover {
+	background-color: #EEF6F7;
+}
